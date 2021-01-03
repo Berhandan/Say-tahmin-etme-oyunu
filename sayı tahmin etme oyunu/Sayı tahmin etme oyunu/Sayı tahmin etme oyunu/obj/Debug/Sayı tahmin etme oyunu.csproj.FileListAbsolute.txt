@@ -1,0 +1,7 @@
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\bin\Debug\Sayı tahmin etme oyunu.exe.config
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\bin\Debug\Sayı tahmin etme oyunu.exe
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\bin\Debug\Sayı tahmin etme oyunu.pdb
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\obj\Debug\Sayı tahmin etme oyunu.csprojAssemblyReference.cache
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\obj\Debug\Sayı tahmin etme oyunu.csproj.CoreCompileInputs.cache
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\obj\Debug\Sayı tahmin etme oyunu.exe
+C:\Users\berha\OneDrive\Masaüstü\sayı tahmin etme oyunu\Sayı tahmin etme oyunu\Sayı tahmin etme oyunu\obj\Debug\Sayı tahmin etme oyunu.pdb
